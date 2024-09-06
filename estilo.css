@@ -1,0 +1,163 @@
+@font-face{
+    font-family: "lexend";
+    src: url(font/Lexend-VariableFont_wght.ttf);}
+    
+*  {border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+header{
+    background-image:url(img/fundo.png);
+    background-size: cover;
+    height: 500px;
+background-position: center;}
+
+.TITULO{
+    font-family: "lexend";
+    font-weight: 400;
+    font-size: 60px;}
+
+.subtitulo{
+    font-family: "lexend";
+    font-size: 20px;}
+
+body{
+    background-color: #598c38;
+    margin-bottom: 20px;}
+
+.imagem{
+    height: 300px;
+width: 349px;
+padding-top: 1px;
+border-radius: 20px;}
+
+.divisão {
+    background-color: #F4F3F3;
+    width: 350px;
+    height: 520px;
+    border-radius: 20px 0px 20px 20px;}
+
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 20px;}
+
+.texto {
+    font-family: "lexend";
+    font-size: 16px;
+    padding: 10px;
+    text-align: justify;
+    padding-top: 30px;
+}
+
+.nome {
+    font-family: "lexend";
+    font-size: 40px;
+    color: #F4F3F3;
+    font-weight: 450;
+    margin-bottom: 30px;
+padding-top: 15px;
+ }
+
+.redes{
+    color: #F4F3F3;
+    font-family: "lexend";
+    font-weight: 300;
+    font-size: 24px;
+padding-top:  10px;}
+
+.sobre {
+    background-color: #F4F3F3;}
+
+.sobre .nome {
+    color: #598c38;}
+
+h3{
+    color:#598C38;
+    font-family: "lexand";
+    font-size: 30px;
+padding-left: 20px;
+font-weight: 100px;}
+
+p{
+    color: black;
+    font-size: 25px;}
+
+section, footer , header{
+    padding: 0px 150px;}
+
+.sobre{
+    padding: 50px 150px;}
+
+header{
+    padding-top: 200px;}
+
+h2{
+    font-size: 30;
+    height: 80px;
+    align-items:flex-start;}
+
+h4{
+    font-size: 30;
+    background-color: #476C30;}
+
+.TextoSobre {
+    margin-bottom: 30px ;}
+
+.processo {
+    text-align: center;
+    padding: 50px 0; } 
+    .NOSSO {
+        background-color: #476C30;
+        padding-bottom: 70px;
+        
+        
+
+    }
+    .claro{
+        color:#F4F3F3;
+        font-family:'lexend';
+
+    font-weight: 200;
+    font-size: 20px;
+    }
+    .h3{
+        color: #F4F3F3;
+    }
+    .branco{
+        color:#F4F3F3;
+        font-family: 'lexend';
+        font-weight: 200;
+        font-size: 45px;
+    }
+
+    .final{
+        color: #F4F3F3;
+        font-family: 'lexend';
+        padding-top: 40px;
+        font-weight: 300
+        ;
+        font-size: 54px;
+        padding-bottom: 110px;
+       
+    }
+    .reducao{
+        display: flex;
+        padding: 30px 0px;
+        align-items: center;
+      
+
+    }
+   
+    .foto{
+    
+        width: 300px;
+        height: 200px;
+        border-radius: 10px;
+       
+       
+    }
+    
+
